@@ -1,6 +1,10 @@
 # My Odin Project Portfolio
 
-## Projects
+### Landing Page
+[![GitHub](https://img.shields.io/badge/GitHub-Code-blue)](https://github.com/GmerReaper/odin-webpage)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://gmerreaper.github.io/odin-webpage)
 
-- [Landing Page](https://github.com/GmerReaper/odin-webpage)
-- [Odin Recipes](https://github.com/GmerReaper/odin-recipes)
+### Odin Recipes
+[![GitHub](https://img.shields.io/badge/GitHub-Code-blue)](https://github.com/GmerReaper/odin-recipes)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://gmerreaper.github.io/odin-recipes)
+
